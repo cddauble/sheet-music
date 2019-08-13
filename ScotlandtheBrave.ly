@@ -12,11 +12,6 @@ myList=#'(4 4 4 4)
   meter = "March"
   arranger = "Trad."
 }
-
-
-
-timeline = \repeat unfold 16 { s1*4 \break }
-
 {
 \hideKeySignature
 \time 4/4
