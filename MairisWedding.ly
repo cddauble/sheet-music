@@ -2,20 +2,11 @@
 
 
 
-\header {
-    % meter = genre
-    meter = "March"
-    title = "Mairi's Wedding"
-    composer = ""
-    arranger = "Trad. "
-    comment = "Comment"
-}
 \score {
 
-{
+
     
     \time 2/4
-    \quarterBeaming
     \hideKeySignature
 
     % Part 1
@@ -55,13 +46,14 @@
     \thrwd d8. e16 \grg f4|
     \dble e8 d \dblb b \gre G|
     \grg a4 \wbirl a4| \bar "|."
-    }}
-  }
-
-
-
+    }
 }
-}
+  
+
+
+
+
+
 
 
 
