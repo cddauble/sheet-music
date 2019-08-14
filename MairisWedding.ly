@@ -1,5 +1,7 @@
 \include "bagpipe.ly"
 
+
+
 \header {
     % meter = genre
     meter = "March"
@@ -18,7 +20,7 @@
 
     % Part 1
 
-    \repeat volta 2 {
+    \repeat volta 2 {\bar ".|:"
     \grg G8 \grd a \wbirl a8. b16|
     \thrwd d8. e16 \grg f4|
     \dble e8 d \dblb b d |
@@ -59,7 +61,7 @@
 
 
 }
-
+}
 
 
 
