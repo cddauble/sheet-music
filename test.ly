@@ -5,13 +5,16 @@
     indent = 0\mm
     scoreTitleMarkup = \markup {
       \fill-line {
-      \fromproperty #'header:composer     
-         \fontsize #4 \bold \fromproperty #'header:piece
+ print-all-headers = ##t
+      \fromproperty #'header:meter     
+        \fontsize #5 \bold \fromproperty #'header:title
         \fromproperty #'header:composer
       }
     }
   }
 }
+
+
 \score 
 {{
     
@@ -42,7 +45,7 @@
 \dblg g8 e \dblc c a|
 \thrwd d4 \slurd d8}}
     \header {
-      piece = "Barren"
+      title = "Barren"
       composer = " Trad"
       meter = "March"
     }
@@ -50,10 +53,60 @@
 
 
   \score {
-    { c4 d }
-    \header {
-      piece = "mairi"
-      composer = "Trad"
+    {
+    \time 2/4
+    \quarterBeaming
+    \hideKeySignature
+
+    % Part 1
+
+    \repeat volta 2 {\bar ".|:"
+    \grg G8 \grd a \wbirl a8. b16|
+    \thrwd d8. e16 \grg f4|
+    \dble e8 d \dblb b d |
+    \grg f e \dblf f4| \break
+
+    \grg G8 \grd a \wbirl a8. b16|
+    \thrwd d8. e16 \grg f4|
+    \dble e8 d \dblb b \gre G|
+    \grg a4 \wbirl a4|
     }
+   \break
+
+    
+    % Part 2
+
+    \repeat volta 2 {
+    \grg f8 A \grg A4|
+    \grip A8. g16 \grA f4|
+    \dble e8 d \dblb b d| 
+    \grg f e \dblf f4|
+     \break}
+  
+ \alternative{
+ {
+ \grg f8 A \grg A4|
+    \grip A8. g16 \grA f4|
+    \dble e8 d \dblb b \gre G|
+    \grg a4 \wbirl a4| \break}
+  
+    {
+    \grg G8 \grd a \wbirl a8. b16|
+    \thrwd d8. e16 \grg f4|
+    \dble e8 d \dblb b \gre G|
+    \grg a4 \wbirl a4| \bar "|."
+    }}
   }
 
+
+
+}
+\header {
+    % meter = genre
+    meter = "March"
+    title = "Mairi's Wedding"
+    arranger = "Trad. "
+    
+}
+
+  }
