@@ -1,22 +1,7 @@
-\include "bagpipe.ly"
-
-\book {
- \paper {
-    indent = 0\mm
-    scoreTitleMarkup = \markup {
-      \fill-line {
-	\fromproperty #'header:meter
-        \fontsize #4 \bold \fromproperty #'header:title
-        \fromproperty #'header:composer
-      }
-    }
-  }
-
-\Score
-{
+\score {
 
 %first part
-    \repeay volta 2
+    \repeat volta 2
         {\partial8 e8 |
         \grg f8. g16 \hdblf f8. e16|
         \thrwd d8 \grg f \gbirl a [\thrwd d]|
@@ -25,7 +10,7 @@
         \grg f8. g16 \hdblf f8. e16|
         \thrwd d8 \grg f \gbirl a [\thrwd d]|
         \dblc c e \gbirl a8 \grg f16. e32| \thrwd d4 \slurd d8}
-        \break
+       \break
 
 
 %2nd part
@@ -39,13 +24,6 @@
         \grg e8 f \gbirl a \grg e16. f32|
         \dblg g8 e \dblc c a|
         \thrwd d4 \slurd d8}
->>
- \header {
-    title = "The Barren Rocks of Aden"
-    meter = "March"
-    composer = "Trad."
-    }
+
+ 
 }
-
-
-
