@@ -13,7 +13,7 @@
   }
 }
 \score 
-{
+{{
     
 \hideKeySignature
 
@@ -40,7 +40,7 @@
 \dblA A8. f16 \thrwd d8. f16|
 \grg e8 f \gbirl a \grg e16. f32|
 \dblg g8 e \dblc c a|
-\thrwd d4 \slurd d8}
+\thrwd d4 \slurd d8}}
     \header {
       piece = "Barren"
       composer = " Trad"
