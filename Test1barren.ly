@@ -13,7 +13,7 @@
   }
 
 \Score
-{ \hide KeySignature
+{ \hideKeySignature
 
 %first part
     \repeay volta 2
