@@ -1,7 +1,9 @@
-\include "bagpipe.ly"
- \Score{
-
- 
+ \include "bagpipe.ly"
+myList=#'(4 4 4 4)
+\layout {
+  indent = 0.0\cm
+  \context { \Score  } 
+   }
   
 
 
