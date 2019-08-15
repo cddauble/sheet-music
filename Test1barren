@@ -13,11 +13,10 @@
   }
 
 \Score
-{ 
-\hide KeySignature
+{ \hide KeySignature
 
 %first part
-    \repeat volta 2
+    \repeay volta 2
         {\partial8 e8 |
         \grg f8. g16 \hdblf f8. e16|
         \thrwd d8 \grg f \gbirl a [\thrwd d]|

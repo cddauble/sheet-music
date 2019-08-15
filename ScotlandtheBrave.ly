@@ -1,23 +1,12 @@
 \include "bagpipe.ly"
-myList=#'(4 4 4 4)
-\layout {
-  indent = 0.0\cm
-  \context { \Score  } 
-   }
-  
 
 
-\header {
-  title = "Scotland the Brave"
-  meter = "March"
-  arranger = "Trad."
-}
-{
+
+
+\score {
 \hideKeySignature
 \time 4/4
-\set Timing.beamExceptions = #'()
-\set Timing.baseMoment = #(ly:make-moment 1/4)
-\set Timing.beatStructure = #'(1 1 1 1)
+
 % First Part
 \partial8 e8
 \grg a4 \taor a8. b16 \dblc c8 \gre a \dblc c e|
@@ -28,6 +17,7 @@ myList=#'(4 4 4 4)
 \dblA a'4 \grg a' \grip a'8 e \dblc c \gre a |
 \thrwd d4 \grg f8.d16 \dblc c8 e \dblc c\gre a|
 \dblb b4 \grg a8. b16 \grG a4 \dblc c8 e \bar "|." \break
+
 % Second Part 
 \dblA a'4 \grg a' \grip a'8 e \dblc c \gre a |
 \dblA a'4 \grg a' \grip a'8 e \dblc c e| 
@@ -38,11 +28,13 @@ myList=#'(4 4 4 4)
 \thrwd d4 \grg f8.d16 \dblc c8 e \dblc c\gre a|
 \dblb b4 \grg a8. b16 \grG a4. \bar "|." \break
 
-
+{\header {
+  title = "Scotland the Brave"
+  meter = "March"
+  arranger = "Trad."
+}}
 
 
   }
 
-  
-  \layout {}
-  \midi {}
+ 

@@ -2,14 +2,6 @@
 
 
 
-\header {
-    % meter = genre
-    meter = "March"
-    title = "Mairi's Wedding"
-    composer = ""
-    arranger = "Trad. "
-    comment = "Comment"
-}
 \score {
 
 {
@@ -61,6 +53,14 @@
 
 
 }
+\header {
+    % meter = genre
+    meter = "March"
+    title = "Mairi's Wedding"
+    arranger = "Trad. "
+    
+}
+
 }
 
 
