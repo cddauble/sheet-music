@@ -25,7 +25,7 @@
 		\dblb b4 \grg a8. b16 \grG a4. \bar "|." \break
 	}
 	\header {
-		piece = "Scotland the Brave"
+		title = "Scotland the Brave"
 		meter = "March"
 		composer = "Trad."
 	}

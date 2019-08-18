@@ -6,7 +6,7 @@
 		scoreTitleMarkup = \markup {
 			\fill-line {
 				\fromproperty #'header:meter
-				 \fontsize #4 \bold \fromproperty #'header:piece
+				\fontsize #4 \bold \fromproperty #'header:piece
 				\fromproperty #'header:composer
 			}
 		}

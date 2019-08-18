@@ -1,10 +1,3 @@
-\include "bagpipe.ly"
-
-\header {
-title = "When the Battle's O'er"
-meter = "Harmony"
-composer = "Trad"
-}
 
 \score{
     {\hideKeySignature
@@ -23,7 +16,7 @@ composer = "Trad"
         \grg d8 e \grg c2|
         }
 \break
-         \repeat volta 2{
+        \repeat volta 2{
         \grg c8. e16 \grg d4 c|
         \dblf f8. e16 \grg d4  c|
         \grg c8. b16 \grg a4 \grg c8. e16| 
@@ -37,5 +30,10 @@ composer = "Trad"
         \grg d8 e \grg c2|
         }
 
+    }
+    \header {
+        title = "When the Battle's O'er"
+        meter = "Harmony"
+        composer = "P.M. W. Robb"
     }
 }

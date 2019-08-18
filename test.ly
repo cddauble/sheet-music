@@ -5,7 +5,6 @@
     indent = 0\mm
     scoreTitleMarkup = \markup {
       \fill-line {
- print-all-headers = ##t
       \fromproperty #'header:meter     
         \fontsize #5 \bold \fromproperty #'header:title
         \fromproperty #'header:composer

@@ -48,7 +48,7 @@
 	\header {
 		% meter = genre
 		meter = "March"
-		piece = "Mairi's Wedding"
+		title = "Mairi's Wedding"
 		composer = "Trad. "
 	}
 }

@@ -12,7 +12,7 @@
 		}
 	}
 	\bookpart {
-		\include "Battle.ly"
-		\include "BattleHarmony.ly"
+		\include "SaluteInfantry.ly"
+		\include "AngusMacdonald.ly"
 	}
 }
