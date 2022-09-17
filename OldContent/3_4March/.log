@@ -1,0 +1,502 @@
+# -*-compilation-*-
+Processing `C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly'
+Parsing...
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:10: error: invalid character: `b'
+\include 
+         bagpipe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:10: error: syntax error, unexpected $undefined
+\include 
+         bagpipe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:11: error: invalid character: `a'
+\include b
+          agpipe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:12: error: invalid character: `g'
+\include ba
+           gpipe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:13: error: invalid character: `p'
+\include bag
+            pipe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:14: error: invalid character: `i'
+\include bagp
+             ipe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:15: error: invalid character: `p'
+\include bagpi
+              pe.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:16: error: invalid character: `e'
+\include bagpip
+               e.ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:17: error: invalid character: `.'
+\include bagpipe
+                .ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:18: error: invalid character: `l'
+\include bagpipe.
+                 ly
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1:19: error: invalid character: `y'
+\include bagpipe.l
+                  y
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:3:1: error: wrong or undefined identifier: `score'
+
+\score {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:3:8: error: invalid character: `{'
+\score 
+       {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:5:1: error: invalid character: `{'
+
+{
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:6:5: error: wrong or undefined identifier: `bagpipeKey'
+    
+    \bagpipeKey
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:7:5: error: wrong or undefined identifier: `time'
+    
+    \time 2/4
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:7:11: error: invalid character: `2'
+    \time 
+          2/4
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:7:12: error: invalid character: `/'
+    \time 2
+           /4
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:7:13: error: invalid character: `4'
+    \time 2/
+            4
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:8:5: error: wrong or undefined identifier: `quarterBeaming'
+    
+    \quarterBeaming
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:5: error: wrong or undefined identifier: `repeat'
+    
+    \repeat volta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:13: error: invalid character: `v'
+    \repeat 
+            volta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:14: error: invalid character: `o'
+    \repeat v
+             olta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:15: error: invalid character: `l'
+    \repeat vo
+              lta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:16: error: invalid character: `t'
+    \repeat vol
+               ta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:17: error: invalid character: `a'
+    \repeat volt
+                a 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:19: error: invalid character: `2'
+    \repeat volta 
+                  2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:12:21: error: invalid character: `{'
+    \repeat volta 2 
+                    {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:13:5: error: wrong or undefined identifier: `partial'
+    
+    \partial 8 e8 |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:13:14: error: invalid character: `8'
+    \partial 
+             8 e8 |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:13:16: error: invalid character: `e'
+    \partial 8 
+               e8 |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:13:17: error: invalid character: `8'
+    \partial 8 e
+                8 |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:13:19: error: invalid character: `|'
+    \partial 8 e8 
+                  |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:5: error: wrong or undefined identifier: `gbirl'
+    
+    \gbirl a8 e8 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:12: error: invalid character: `a'
+    \gbirl 
+           a8 e8 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:13: error: invalid character: `8'
+    \gbirl a
+            8 e8 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:15: error: invalid character: `e'
+    \gbirl a8 
+              e8 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:16: error: invalid character: `8'
+    \gbirl a8 e
+               8 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:18: error: wrong or undefined identifier: `gra'
+    \gbirl a8 e8 
+                 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:23: error: invalid character: `e'
+    \gbirl a8 e8 \gra 
+                      e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:24: error: invalid character: `4'
+    \gbirl a8 e8 \gra e
+                       4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:14:25: error: invalid character: `|'
+    \gbirl a8 e8 \gra e4
+                        |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:5: error: wrong or undefined identifier: `thrwd'
+    
+    \thrwd d8 \grg e8. d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:12: error: invalid character: `d'
+    \thrwd 
+           d8 \grg e8. d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:13: error: invalid character: `8'
+    \thrwd d
+            8 \grg e8. d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:15: error: wrong or undefined identifier: `grg'
+    \thrwd d8 
+              \grg e8. d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:20: error: invalid character: `e'
+    \thrwd d8 \grg 
+                   e8. d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:21: error: invalid character: `8'
+    \thrwd d8 \grg e
+                    8. d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:22: error: invalid character: `.'
+    \thrwd d8 \grg e8
+                     . d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:24: error: invalid character: `d'
+    \thrwd d8 \grg e8. 
+                       d16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:25: error: invalid character: `1'
+    \thrwd d8 \grg e8. d
+                        16 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:26: error: invalid character: `6'
+    \thrwd d8 \grg e8. d1
+                         6 /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:28: error: invalid character: `/'
+    \thrwd d8 \grg e8. d16 
+                           /dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:29: error: invalid character: `d'
+    \thrwd d8 \grg e8. d16 /
+                            dblb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:30: error: invalid character: `b'
+    \thrwd d8 \grg e8. d16 /d
+                             blb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:31: error: invalid character: `l'
+    \thrwd d8 \grg e8. d16 /db
+                              lb b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:32: error: invalid character: `b'
+    \thrwd d8 \grg e8. d16 /dbl
+                               b b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:34: error: invalid character: `b'
+    \thrwd d8 \grg e8. d16 /dblb 
+                                 b8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:35: error: invalid character: `8'
+    \thrwd d8 \grg e8. d16 /dblb b
+                                  8 \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:37: error: wrong or undefined identifier: `gre'
+    \thrwd d8 \grg e8. d16 /dblb b8 
+                                    \gre G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:42: error: invalid character: `G'
+    \thrwd d8 \grg e8. d16 /dblb b8 \gre 
+                                         G|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:15:43: error: invalid character: `|'
+    \thrwd d8 \grg e8. d16 /dblb b8 \gre G
+                                          |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:5: error: wrong or undefined identifier: `grg'
+    
+    \grg a8. b16 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:10: error: invalid character: `a'
+    \grg 
+         a8. b16 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:11: error: invalid character: `8'
+    \grg a
+          8. b16 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:12: error: invalid character: `.'
+    \grg a8
+           . b16 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:14: error: invalid character: `b'
+    \grg a8. 
+             b16 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:15: error: invalid character: `1'
+    \grg a8. b
+              16 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:16: error: invalid character: `6'
+    \grg a8. b1
+               6 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:18: error: wrong or undefined identifier: `grip'
+    \grg a8. b16 
+                 \grip c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:24: error: invalid character: `c'
+    \grg a8. b16 \grip 
+                       c8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:25: error: invalid character: `8'
+    \grg a8. b16 \grip c
+                        8 A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:27: error: invalid character: `A'
+    \grg a8. b16 \grip c8 
+                          A8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:28: error: invalid character: `8'
+    \grg a8. b16 \grip c8 A
+                           8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:16:29: error: invalid character: `|'
+    \grg a8. b16 \grip c8 A8
+                            |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:5: error: wrong or undefined identifier: `hdble'
+    
+    \hdble e4 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:12: error: invalid character: `e'
+    \hdble 
+           e4 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:13: error: invalid character: `4'
+    \hdble e
+            4 \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:15: error: wrong or undefined identifier: `gra'
+    \hdble e4 
+              \gra e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:20: error: invalid character: `e'
+    \hdble e4 \gra 
+                   e4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:21: error: invalid character: `4'
+    \hdble e4 \gra e
+                    4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:17:22: error: invalid character: `|'
+    \hdble e4 \gra e4
+                     |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:5: error: wrong or undefined identifier: `gbirl'
+    
+    \gbirl a8 A8 /grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:12: error: invalid character: `a'
+    \gbirl 
+           a8 A8 /grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:13: error: invalid character: `8'
+    \gbirl a
+            8 A8 /grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:15: error: invalid character: `A'
+    \gbirl a8 
+              A8 /grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:16: error: invalid character: `8'
+    \gbirl a8 A
+               8 /grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:18: error: invalid character: `/'
+    \gbirl a8 A8 
+                 /grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:19: error: invalid character: `g'
+    \gbirl a8 A8 /
+                  grg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:20: error: invalid character: `r'
+    \gbirl a8 A8 /g
+                   rg A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:21: error: invalid character: `g'
+    \gbirl a8 A8 /gr
+                    g A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:23: error: invalid character: `A'
+    \gbirl a8 A8 /grg 
+                      A8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:24: error: invalid character: `8'
+    \gbirl a8 A8 /grg A
+                       8 e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:26: error: invalid character: `e'
+    \gbirl a8 A8 /grg A8 
+                         e8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:27: error: invalid character: `8'
+    \gbirl a8 A8 /grg A8 e
+                          8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:28: error: invalid character: `.'
+    \gbirl a8 A8 /grg A8 e8
+                           . f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:30: error: invalid character: `f'
+    \gbirl a8 A8 /grg A8 e8. 
+                             f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:31: error: invalid character: `1'
+    \gbirl a8 A8 /grg A8 e8. f
+                              16|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:32: error: invalid character: `6'
+    \gbirl a8 A8 /grg A8 e8. f1
+                               6|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:19:33: error: invalid character: `|'
+    \gbirl a8 A8 /grg A8 e8. f16
+                                |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:5: error: wrong or undefined identifier: `hdbleg'
+    
+    \hdbleg g8 \grA G8 \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:13: error: invalid character: `g'
+    \hdbleg 
+            g8 \grA G8 \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:14: error: invalid character: `8'
+    \hdbleg g
+             8 \grA G8 \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:16: error: wrong or undefined identifier: `grA'
+    \hdbleg g8 
+               \grA G8 \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:21: error: invalid character: `G'
+    \hdbleg g8 \grA 
+                    G8 \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:22: error: invalid character: `8'
+    \hdbleg g8 \grA G
+                     8 \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:24: error: wrong or undefined identifier: `dblb'
+    \hdbleg g8 \grA G8 
+                       \dblb b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:30: error: invalid character: `b'
+    \hdbleg g8 \grA G8 \dblb 
+                             b4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:31: error: invalid character: `4'
+    \hdbleg g8 \grA G8 \dblb b
+                              4|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:20:32: error: invalid character: `|'
+    \hdbleg g8 \grA G8 \dblb b4
+                               |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:5: error: wrong or undefined identifier: `dbla'
+    
+    \dbla a8 e8 \grg e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:11: error: invalid character: `a'
+    \dbla 
+          a8 e8 \grg e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:12: error: invalid character: `8'
+    \dbla a
+           8 e8 \grg e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:14: error: invalid character: `e'
+    \dbla a8 
+             e8 \grg e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:15: error: invalid character: `8'
+    \dbla a8 e
+              8 \grg e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:17: error: wrong or undefined identifier: `grg'
+    \dbla a8 e8 
+                \grg e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:22: error: invalid character: `e'
+    \dbla a8 e8 \grg 
+                     e16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:23: error: invalid character: `1'
+    \dbla a8 e8 \grg e
+                      16. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:24: error: invalid character: `6'
+    \dbla a8 e8 \grg e1
+                       6. d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:25: error: invalid character: `.'
+    \dbla a8 e8 \grg e16
+                        . d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:27: error: invalid character: `d'
+    \dbla a8 e8 \grg e16. 
+                          d32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:28: error: invalid character: `3'
+    \dbla a8 e8 \grg e16. d
+                           32 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:29: error: invalid character: `2'
+    \dbla a8 e8 \grg e16. d3
+                            2 \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:31: error: wrong or undefined identifier: `grg'
+    \dbla a8 e8 \grg e16. d32 
+                              \grg b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:36: error: invalid character: `b'
+    \dbla a8 e8 \grg e16. d32 \grg 
+                                   b32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:37: error: invalid character: `3'
+    \dbla a8 e8 \grg e16. d32 \grg b
+                                    32 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:38: error: invalid character: `2'
+    \dbla a8 e8 \grg e16. d32 \grg b3
+                                     2 \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:40: error: wrong or undefined identifier: `grd'
+    \dbla a8 e8 \grg e16. d32 \grg b32 
+                                       \grd G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:45: error: invalid character: `G'
+    \dbla a8 e8 \grg e16. d32 \grg b32 \grd 
+                                            G16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:46: error: invalid character: `1'
+    \dbla a8 e8 \grg e16. d32 \grg b32 \grd G
+                                             16.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:47: error: invalid character: `6'
+    \dbla a8 e8 \grg e16. d32 \grg b32 \grd G1
+                                              6.|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:48: error: invalid character: `.'
+    \dbla a8 e8 \grg e16. d32 \grg b32 \grd G16
+                                               .|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:21:49: error: invalid character: `|'
+    \dbla a8 e8 \grg e16. d32 \grg b32 \grd G16.
+                                                |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:5: error: wrong or undefined identifier: `grg'
+    
+    \grg a4 \wbirl a8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:10: error: invalid character: `a'
+    \grg 
+         a4 \wbirl a8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:11: error: invalid character: `4'
+    \grg a
+          4 \wbirl a8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:13: error: wrong or undefined identifier: `wbirl'
+    \grg a4 
+            \wbirl a8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:20: error: invalid character: `a'
+    \grg a4 \wbirl 
+                   a8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:21: error: invalid character: `8'
+    \grg a4 \wbirl a
+                    8|
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:22:22: error: invalid character: `|'
+    \grg a4 \wbirl a8
+                     |
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:23:5: error: invalid character: `}'
+    
+    }
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:24:5: error: wrong or undefined identifier: `break'
+    
+    \break
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:5: error: wrong or undefined identifier: `repeat'
+    
+    \repeat volta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:13: error: invalid character: `v'
+    \repeat 
+            volta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:14: error: invalid character: `o'
+    \repeat v
+             olta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:15: error: invalid character: `l'
+    \repeat vo
+              lta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:16: error: invalid character: `t'
+    \repeat vol
+               ta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:17: error: invalid character: `a'
+    \repeat volt
+                a 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:19: error: invalid character: `2'
+    \repeat volta 
+                  2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:28:21: error: invalid character: `{'
+    \repeat volta 2 
+                    {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:29:5: error: wrong or undefined identifier: `partial'
+    
+    \partial
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:30:5: error: invalid character: `}'
+    
+    }
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:31:5: error: wrong or undefined identifier: `break'
+    
+    \break
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:32:1: error: invalid character: `}'
+
+}
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:34:1: error: wrong or undefined identifier: `header'
+
+\header {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:34:9: error: invalid character: `{'
+\header 
+        {
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:5: error: invalid character: `m'
+    
+    meter = "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:6: error: invalid character: `e'
+    m
+     eter = "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:7: error: invalid character: `t'
+    me
+      ter = "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:8: error: invalid character: `e'
+    met
+       er = "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:9: error: invalid character: `r'
+    mete
+        r = "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:11: error: invalid character: `='
+    meter 
+          = "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:35:13: error: cannot find file: `March '
+(search path: `C:/Users/VIP/Documents/GitHub/sheet-music/3_4March;C:/Program Files (x86)/LilyPond/usr/share/lilypond/current/ly;C:/Program Files (x86)/LilyPond/usr/share/lilypond/current/ps;C:/Program Files (x86)/LilyPond/usr/share/lilypond/current/scm;C:/Program Files (x86)/LilyPond/usr/share/lilypond/current/fonts/otf/;C:/Program Files (x86)/LilyPond/usr/share/lilypond/current/fonts/type1/;C:/Program Files (x86)/LilyPond/usr/share/lilypond/current/fonts/svg/;')
+    meter = 
+            "March "
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:39:1: error: syntax error, unexpected '}'
+
+}
+C:/Users/VIP/Documents/GitHub/sheet-music/3_4March/theMousHunt.ly:1: warning: no \version statement found, please add
+
+\version "2.22.2"
+
+for future compatibility
+fatal error: failed files: "C:\\Users\\VIP\\Documents\\GitHub\\sheet-music\\3_4March\\theMousHunt.ly"

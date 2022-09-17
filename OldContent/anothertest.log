@@ -1,0 +1,308 @@
+# -*-compilation-*-
+Processing `C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly'
+Parsing...
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:6:9: error: unknown escaped string: `\grg'
+        
+        \grg f8. g16 \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:6:9: error: string outside of text script or \lyricmode
+        
+        \grg f8. g16 \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:6:22: error: unknown escaped string: `\hdblf'
+        \grg f8. g16 
+                     \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:6:22: error: string outside of text script or \lyricmode
+        \grg f8. g16 
+                     \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:9: error: unknown escaped string: `\thrwd'
+        
+        \thrwd d8 \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:9: error: string outside of text script or \lyricmode
+        
+        \thrwd d8 \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:19: error: unknown escaped string: `\grg'
+        \thrwd d8 
+                  \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:19: error: string outside of text script or \lyricmode
+        \thrwd d8 
+                  \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:26: error: unknown escaped string: `\gbirl'
+        \thrwd d8 \grg f 
+                         \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:26: error: string outside of text script or \lyricmode
+        \thrwd d8 \grg f 
+                         \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:36: error: unknown escaped string: `\thrwd'
+        \thrwd d8 \grg f \gbirl a [
+                                   \thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:36: error: string outside of text script or \lyricmode
+        \thrwd d8 \grg f \gbirl a [
+                                   \thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:9: error: unknown escaped string: `\dblc'
+        
+        \dblc c \grg e \gbirl a8. e16 |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:9: error: string outside of text script or \lyricmode
+        
+        \dblc c \grg e \gbirl a8. e16 |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:17: error: unknown escaped string: `\grg'
+        \dblc c 
+                \grg e \gbirl a8. e16 |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:17: error: string outside of text script or \lyricmode
+        \dblc c 
+                \grg e \gbirl a8. e16 |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:24: error: unknown escaped string: `\gbirl'
+        \dblc c \grg e 
+                       \gbirl a8. e16 |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:24: error: string outside of text script or \lyricmode
+        \dblc c \grg e 
+                       \gbirl a8. e16 |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:9: error: unknown escaped string: `\grg'
+        
+        \grg f8 \grg a \thrwd d8. e16|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:9: error: string outside of text script or \lyricmode
+        
+        \grg f8 \grg a \thrwd d8. e16|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:17: error: unknown escaped string: `\grg'
+        \grg f8 
+                \grg a \thrwd d8. e16|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:17: error: string outside of text script or \lyricmode
+        \grg f8 
+                \grg a \thrwd d8. e16|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:24: error: unknown escaped string: `\thrwd'
+        \grg f8 \grg a 
+                       \thrwd d8. e16|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:24: error: string outside of text script or \lyricmode
+        \grg f8 \grg a 
+                       \thrwd d8. e16|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:10:9: error: unknown escaped string: `\grg'
+        
+        \grg f8. g16 \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:10:9: error: string outside of text script or \lyricmode
+        
+        \grg f8. g16 \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:10:22: error: unknown escaped string: `\hdblf'
+        \grg f8. g16 
+                     \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:10:22: error: string outside of text script or \lyricmode
+        \grg f8. g16 
+                     \hdblf f8. e16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:9: error: unknown escaped string: `\thrwd'
+        
+        \thrwd d8 \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:9: error: string outside of text script or \lyricmode
+        
+        \thrwd d8 \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:19: error: unknown escaped string: `\grg'
+        \thrwd d8 
+                  \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:19: error: string outside of text script or \lyricmode
+        \thrwd d8 
+                  \grg f \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:26: error: unknown escaped string: `\gbirl'
+        \thrwd d8 \grg f 
+                         \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:26: error: string outside of text script or \lyricmode
+        \thrwd d8 \grg f 
+                         \gbirl a [\thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:36: error: unknown escaped string: `\thrwd'
+        \thrwd d8 \grg f \gbirl a [
+                                   \thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:36: error: string outside of text script or \lyricmode
+        \thrwd d8 \grg f \gbirl a [
+                                   \thrwd d]|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:9: error: unknown escaped string: `\dblc'
+        
+        \dblc c e \gbirl a8 \grg f16. e32| \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:9: error: string outside of text script or \lyricmode
+        
+        \dblc c e \gbirl a8 \grg f16. e32| \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:19: error: unknown escaped string: `\gbirl'
+        \dblc c e 
+                  \gbirl a8 \grg f16. e32| \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:19: error: string outside of text script or \lyricmode
+        \dblc c e 
+                  \gbirl a8 \grg f16. e32| \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:29: error: unknown escaped string: `\grg'
+        \dblc c e \gbirl a8 
+                            \grg f16. e32| \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:29: error: string outside of text script or \lyricmode
+        \dblc c e \gbirl a8 
+                            \grg f16. e32| \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:44: error: unknown escaped string: `\thrwd'
+        \dblc c e \gbirl a8 \grg f16. e32| 
+                                           \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:44: error: string outside of text script or \lyricmode
+        \dblc c e \gbirl a8 \grg f16. e32| 
+                                           \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:54: error: unknown escaped string: `\slurd'
+        \dblc c e \gbirl a8 \grg f16. e32| \thrwd d4 
+                                                     \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:54: error: string outside of text script or \lyricmode
+        \dblc c e \gbirl a8 \grg f16. e32| \thrwd d4 
+                                                     \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:13:8: error: Spurious expression in \score
+       
+       \break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:18:19: error: unknown escaped string: `\grg'
+        \partial8 
+                  \grg f16. g32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:18:19: error: string outside of text script or \lyricmode
+        \partial8 
+                  \grg f16. g32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:19:9: error: unknown escaped string: `\dblA'
+        
+        \dblA A8. f16 \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:19:9: error: string outside of text script or \lyricmode
+        
+        \dblA A8. f16 \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:19:15: error: not a note name: A
+        \dblA 
+              A8. f16 \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:19:23: error: unknown escaped string: `\thrwd'
+        \dblA A8. f16 
+                      \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:19:23: error: string outside of text script or \lyricmode
+        \dblA A8. f16 
+                      \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:20:9: error: unknown escaped string: `\grg'
+        
+        \grg e8 f \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:20:9: error: string outside of text script or \lyricmode
+        
+        \grg e8 f \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:20:19: error: unknown escaped string: `\gbirl'
+        \grg e8 f 
+                  \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:20:19: error: string outside of text script or \lyricmode
+        \grg e8 f 
+                  \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:20:28: error: unknown escaped string: `\grg'
+        \grg e8 f \gbirl a 
+                           \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:20:28: error: string outside of text script or \lyricmode
+        \grg e8 f \gbirl a 
+                           \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:21:9: error: unknown escaped string: `\dblg'
+        
+        \dblg g8 e \dblc c e|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:21:9: error: string outside of text script or \lyricmode
+        
+        \dblg g8 e \dblc c e|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:21:20: error: unknown escaped string: `\dblc'
+        \dblg g8 e 
+                   \dblc c e|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:21:20: error: string outside of text script or \lyricmode
+        \dblg g8 e 
+                   \dblc c e|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:22:9: error: unknown escaped string: `\thrwd'
+        
+        \thrwd d f \gbirl a \grg f16. g32|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:22:9: error: string outside of text script or \lyricmode
+        
+        \thrwd d f \gbirl a \grg f16. g32|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:22:20: error: unknown escaped string: `\gbirl'
+        \thrwd d f 
+                   \gbirl a \grg f16. g32|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:22:20: error: string outside of text script or \lyricmode
+        \thrwd d f 
+                   \gbirl a \grg f16. g32|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:22:29: error: unknown escaped string: `\grg'
+        \thrwd d f \gbirl a 
+                            \grg f16. g32|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:22:29: error: string outside of text script or \lyricmode
+        \thrwd d f \gbirl a 
+                            \grg f16. g32|\break
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:23:9: error: unknown escaped string: `\dblA'
+        
+        \dblA A8. f16 \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:23:9: error: string outside of text script or \lyricmode
+        
+        \dblA A8. f16 \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:23:15: error: not a note name: A
+        \dblA 
+              A8. f16 \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:23:23: error: unknown escaped string: `\thrwd'
+        \dblA A8. f16 
+                      \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:23:23: error: string outside of text script or \lyricmode
+        \dblA A8. f16 
+                      \thrwd d8. f16|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:24:9: error: unknown escaped string: `\grg'
+        
+        \grg e8 f \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:24:9: error: string outside of text script or \lyricmode
+        
+        \grg e8 f \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:24:19: error: unknown escaped string: `\gbirl'
+        \grg e8 f 
+                  \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:24:19: error: string outside of text script or \lyricmode
+        \grg e8 f 
+                  \gbirl a \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:24:28: error: unknown escaped string: `\grg'
+        \grg e8 f \gbirl a 
+                           \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:24:28: error: string outside of text script or \lyricmode
+        \grg e8 f \gbirl a 
+                           \grg e16. f32|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:25:9: error: unknown escaped string: `\dblg'
+        
+        \dblg g8 e \dblc c a|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:25:9: error: string outside of text script or \lyricmode
+        
+        \dblg g8 e \dblc c a|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:25:20: error: unknown escaped string: `\dblc'
+        \dblg g8 e 
+                   \dblc c a|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:25:20: error: string outside of text script or \lyricmode
+        \dblg g8 e 
+                   \dblc c a|
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:26:9: error: unknown escaped string: `\thrwd'
+        
+        \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:26:9: error: string outside of text script or \lyricmode
+        
+        \thrwd d4 \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:26:19: error: unknown escaped string: `\slurd'
+        \thrwd d4 
+                  \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:26:19: error: string outside of text script or \lyricmode
+        \thrwd d4 
+                  \slurd d8}
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:17:5: error: Spurious expression in \score
+    
+    \repeat volta 2 {
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:1: warning: no \version statement found, please add
+
+\version "2.22.2"
+
+for future compatibility
+Interpreting music...
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:6:36: warning: barcheck failed at: 11/16
+        \grg f8. g16 \hdblf f8. e16
+                                   |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:7:45: warning: barcheck failed at: 5/8
+        \thrwd d8 \grg f \gbirl a [\thrwd d]
+                                            |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:8:39: warning: barcheck failed at: 1/2
+        \dblc c \grg e \gbirl a8. e16 
+                                      |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:9:38: warning: barcheck failed at: 5/16
+        \grg f8 \grg a \thrwd d8. e16
+                                     |\break
+warning: forced break was overridden by some other event, should you be using bar checks?
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:10:36: warning: barcheck failed at: 15/16
+        \grg f8. g16 \hdblf f8. e16
+                                   |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:11:45: warning: barcheck failed at: 7/8
+        \thrwd d8 \grg f \gbirl a [\thrwd d]
+                                            |
+C:/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.ly:12:42: warning: barcheck failed at: 3/4
+        \dblc c e \gbirl a8 \grg f16. e32
+                                         | \thrwd d4 \slurd d8}
+[8][8]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+Converting to `/Users/VIP/Documents/GitHub/sheet-music/OldContent/anothertest.pdf'...
+fatal error: failed files: "C:\\Users\\VIP\\Documents\\GitHub\\sheet-music\\OldContent\\anothertest.ly"
